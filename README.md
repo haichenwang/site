@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Haichen Wang, Chamberlain Fellow at the LBNL
 
 You can use the [editor on GitHub](https://github.com/haichenwang/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
